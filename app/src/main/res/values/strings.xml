@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Queue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_code">ОТПРАВИТЬ КОД</string>
+    <string name="verify">ПРОВЕРИТЬ</string>
+    <string name="send">ОТПРАВИТЬ</string>
+</resources>
